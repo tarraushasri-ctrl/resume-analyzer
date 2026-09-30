@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer Pro",
+  "description": "Automated resume parsing, ATS scoring, and career intelligence powered by n8n workflow integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
